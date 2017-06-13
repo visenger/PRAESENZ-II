@@ -7,7 +7,7 @@ Die Präsenz besteht aus drei Teilen:
 
 - [ ] **WarmUp:** [In diesem Teil](https://github.com/visenger/PRAESENZ-II/tree/master/src/part1) müssen Sie, aus der vorgegebenen Vorlage, einen einfachen Calculator zu implementieren.
 - [ ] **Venn-Diagramm:** Im [zweiten Teil](https://github.com/visenger/PRAESENZ-II/tree/master/src/part2) beschäftigen wir uns mit der Visualisierung von Daten.
-- [ ] **Your-Favorite-GUI:** Im [letzten Teil](https://github.com/visenger/PRAESENZ-II/tree/master/src/part3) können Sie Ihre eigene Idee implementieren. Als Ideen Pool, können Sie den Visualizierungskatalog nutzen. (Gerne können wir eine Idee zusammen entwickeln :) )
+- [ ] **Your-Favorite-GUI:** Im [letzten Teil](https://github.com/visenger/PRAESENZ-II/tree/master/src/part3) können Sie Ihre eigene Idee implementieren. Als Ideen Pool, können Sie den [Visualizierungskatalog] (http://www.datavizcatalogue.com/) nutzen. (Gerne können wir eine Idee zusammen entwickeln :) )
 
 ## Hinweise zu Aufgaben:
 
