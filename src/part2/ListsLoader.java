@@ -26,8 +26,8 @@ public class ListsLoader {
     private static List<String> loadListByPath(String path) {
         List<String> result = Collections.emptyList();
         try (Stream<String> lines = Files.lines(Paths.get(path))) {
-            result = lines.map(String::toLowerCase)
-                    .distinct()
+            result = lines.parallel().map(String::toLowerCase)
+                    //.distinct()
                     .collect(Collectors.toList());
         } catch (IOException e) {
             //handle your exception here!
